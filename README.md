@@ -17,15 +17,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Luisegp7/QR-code-component
+- Live Site URL: https://luisegp7.github.io/QR-code-component/
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
+- CSS Flexbox
 - Mobile-first workflow
 - Google Fonts - For styles
 
@@ -39,7 +39,7 @@ I want to continue learning how Flexbox works.
 
 ## Author
 
-- Website - [Luis Gamboa](https://www.your-site.com)
+- GitHub - [@Luisegp7](https://github.com/Luisegp7) 
 - Frontend Mentor - [@Luisegp7](https://www.frontendmentor.io/profile/Luisegp7)
 
 
