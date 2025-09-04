@@ -42,4 +42,3 @@ I want to continue learning how Flexbox works.
 - GitHub - [@Luisegp7](https://github.com/Luisegp7) 
 - Frontend Mentor - [@Luisegp7](https://www.frontendmentor.io/profile/Luisegp7)
 
-

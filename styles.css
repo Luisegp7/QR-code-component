@@ -9,7 +9,6 @@ body {
     font-family: 'Outfit', Arial, Helvetica, sans-serif; 
     background-color: hsl(212, 45%, 89%);
     padding: 0 25px;
-    line-height: 1.5;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -40,6 +39,8 @@ body {
     font-size: 1.3em;
     font-weight: bold;
     margin-bottom: 10px;
+    color: hsl(218, 44%, 22%)
+;
 }
 
 .card-description{
